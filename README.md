@@ -1,5 +1,5 @@
-🧬  Project Name 💻
-=====================
+Project Name 🧬 &rarr; 💻
+========================
 
 ## 🦠 Introduction 
 
