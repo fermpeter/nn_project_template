@@ -1,26 +1,26 @@
 🧬  Project Name 💻
-==================
+=====================
 
 ## 🦠 Introduction 
 
 Project background here...
 
-## 💾 Data
+## 💾  Data
 
 Information about data and resoruces used...
 
-## 🌐 Shared Resources
+## 🌐  Shared Resources
 
 Links to shared resources...
 
-## 📚 Docs
+## 📚  Docs
 
 Documentation, references, resources, etc...
 
-## 🗺️ Roadmap
+## 🗺️  Roadmap
 
 To Dos, workflow, images, flowcart, etc...
 
-## 🙌 Team
+## 🙌  Team
 
 NN lab member, collaborators, etc... 
