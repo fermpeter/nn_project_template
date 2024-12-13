@@ -13,7 +13,6 @@
 *-Ex.R
 
 # Output files from R CMD build
-/*.tar.gz
 
 # Output files from R CMD check
 /*.Rcheck/
@@ -40,7 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
 
 # translation temp files
 po/*~
