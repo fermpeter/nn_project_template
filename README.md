@@ -18,8 +18,29 @@ Links to shared resources...
 Documentation, references, resources, etc...
 
 ## 🗺️  Roadmap
+The basic project structure:
 
-To Dos, workflow, images, flowcart, etc...
+```
+└── nn_project_template
+    ├── data
+    ├── .gitignore
+    ├── metadata
+    │   └── metadata.csv
+    ├── README.md
+    ├── resources
+    │   ├── docs
+    │   │   └── RNAFourColumnFormat.txt
+    │   ├── references
+    │   │   └── MEGARES_AMR++_v3_manuscript.pdf
+    │   └── templates
+    │       ├── daybook_entry.md
+    │       └── sbatch.slurm
+    ├── results
+    │   └── AMR_analytic_matrix.csv
+    ├── scripts
+    │   └── nn_lab.sh
+    └── tools
+```
 
 ## 🙌  Team
 
